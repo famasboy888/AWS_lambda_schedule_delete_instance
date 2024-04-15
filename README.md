@@ -14,6 +14,9 @@ Permission defined under Policy:
 </p>
 
 ## 3) Create Lambda function
+
+[lambda_function.py](https://raw.githubusercontent.com/famasboy888/AWS_lambda_schedule_delete_instance/main/lambda_function.py)
+
 <p align="left">
   <img width="80%" height="80%" src="https://github.com/famasboy888/AWS_lambda_schedule_delete_instance/assets/23441168/fa5086ca-7ca4-4584-8c9a-210342dea640">
 </p>
