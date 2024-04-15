@@ -1,6 +1,9 @@
 # AWS Lambda that will terminate EC2 Instance every night time
 
 ## 1) We need to create a test EC2 Instances first
+<p align="left">
+  <img width="80%" height="80%" src="https://github.com/famasboy888/AWS_lambda_schedule_delete_instance/assets/23441168/2dec5aed-1ea0-46e3-8973-c9964ea3d545">
+</p>
 
 ## 2) We need to create Role and attach Policies
 
