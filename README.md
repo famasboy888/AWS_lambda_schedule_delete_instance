@@ -1,1 +1,1 @@
-# AWS_lambda_schedule_delete_instance
+# AWS Lambda that will terminate EC2 Instance every night time
