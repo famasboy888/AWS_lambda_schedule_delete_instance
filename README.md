@@ -20,3 +20,10 @@ Permission defined under Policy:
 <p align="left">
   <img width="80%" height="80%" src="https://github.com/famasboy888/AWS_lambda_schedule_delete_instance/assets/23441168/fa5086ca-7ca4-4584-8c9a-210342dea640">
 </p>
+
+## 3) Schedule using Amazon EventBridge Scheduler
+I set mine to trigger every 6PM Philippine Standard Time.
+
+<p align="left">
+  <img width="80%" height="80%" src="https://github.com/famasboy888/AWS_lambda_schedule_delete_instance/assets/23441168/9d9468d7-0d1a-4a46-96b6-32a2ddf9f4f7">
+</p>
